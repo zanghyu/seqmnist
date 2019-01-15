@@ -7,7 +7,7 @@ https://drive.google.com/open?id=1I8NbuUc0vF3igpCihhryVuiNd31nlwkh
 
 ## Requirements
 
-For `seq2seq` package, refer to https://github.com/CZWin32768/pytorch-seq2seq.
+For `seq2seq` package, refer to https://github.com/zanghyu/pytorch-seq2seq.
 
 ```
 imageio
