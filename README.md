@@ -93,7 +93,7 @@ Progress: 0%, Train Perplexity: 5.7955
 - 修改了seq2seq的evaluate代码，现在可以得到准确率（ZHY）
 - 目前模型准确率为25%左右
 
-##Author
+## Author
 
 - Zewen Chi
 - Hongyu Zang
